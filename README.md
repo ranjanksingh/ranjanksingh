@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning Spark Streaming
 - 💞️ I’m looking to collaborate on open source technology
 - 📫 How to reach me @ranjank326
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ranjanksingh&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /
+
+<br>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ranjanksingh&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 ## 💼 Skills
 
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
