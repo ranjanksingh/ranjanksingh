@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ranjanksingh
-- 👀 I’m interested in 
+- 👀 I’m interested in DDD,Event Sourcing & CQRS pattern and Microservices
 - 🌱 I’m currently learning Spark Streaming
 - 💞️ I’m looking to collaborate on open source technology
 - 📫 How to reach me @ranjank326
